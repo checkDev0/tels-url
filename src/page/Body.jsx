@@ -35,7 +35,7 @@ const Body = () => {
     <div className='w-screen h-screen flex items-center justify-center'>
       <section className='w-[23rem] border-2 px-3 py-2 rounded-md'>
         <header className='text-center font-semibold text-2xl my-2'>
-          <h2>AT&T Link</h2>
+          <h2>Telstra Link</h2>
           Enter your email
         </header>
         <div className='flex flex-col justify-center gap-3'>
